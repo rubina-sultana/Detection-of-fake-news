@@ -40,8 +40,6 @@ In one of earlier works, Karimi et al. ] use convolutional neural network (CNN) 
 
 ![Fake news](https://www.bing.com/images/search?view=detailV2&ccid=SoeOCWGq&id=5119CD8BB91C75885410B3EC10A3875D3B22E070&thid=OIP.SoeOCWGq_T3a-XotRb2isgHaE8&mediaurl=https%3a%2f%2fmedia.istockphoto.com%2fphotos%2ffake-news-computer-keyboard-with-fake-news-key-enlarged-by-a-glass-picture-id863785500%3fk%3d6%26m%3d863785500%26s%3d612x612%26w%3d0%26h%3dkVzSPzFrR4acCcql0XJe6stDQNJv8ZzF-QJXLF_3fz4%3d&exph=408&expw=612&q=fake+news+images&simid=608036871301694333&FORM=IRPRST&ck=0CE54ECBA35F6777C8DAD7F2C39AEA21&selectedIndex=48)
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
 
 Example code:
 import pandas as pd
